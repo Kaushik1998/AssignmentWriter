@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="4mm"
+   height="4.5049mm"
+   version="1.0"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 5.8992702 7"
+   id="svg10"
+   sodipodi:docname="template.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"><metadata
+   id="metadata14"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   inkscape:snap-global="false"
+   inkscape:object-nodes="false"
+   inkscape:document-rotation="0"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="705"
+   id="namedview12"
+   showgrid="false"
+   inkscape:zoom="29.484488"
+   inkscape:cx="6.1539633"
+   inkscape:cy="8.2666398"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg10" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:0.291788}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ 
+<path
+   id="path861"
+   d="M 0.52504862,0.96365582 C 1.6509505,9.5410302 -1.1598462,5.5752661 1.8405481,1.2390929 2.3326011,0.52797715 2.94387,4.6132674 2.94387,3.6835967 c 0,-5.5355448 2.616854,-0.2581142 2.616854,2.5822224"
+   style="fill:none;stroke:#000000;stroke-width:0.460095px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /></svg>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="r.svg"
+   id="svg10"
+   viewBox="0 0 835 866"
+   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+   version="1.1"
+   height="8.684mm"
+   width="8.3744mm"
+   xml:space="preserve"><metadata
+   id="metadata14"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   inkscape:current-layer="svg10"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-8"
+   inkscape:window-x="-8"
+   inkscape:cy="16.410709"
+   inkscape:cx="15.825638"
+   inkscape:zoom="16.391736"
+   showgrid="false"
+   id="namedview12"
+   inkscape:window-height="705"
+   inkscape:window-width="1366"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+ <defs
+   id="defs4">
+  <style
+   id="style2"
+   type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:19.9063}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ 
+<path
+   id="path16"
+   d="m 144.80712,196.37917 c 36.9261,-0.24565 68.37403,25.52588 96.57992,46.6803 129.28162,96.9612 141.64113,267.22957 88.53159,408.85501 -9.4125,25.10004 -23.27337,70.38946 -46.68029,82.09293 C 254.81017,677.56013 275.195,608.42356 284.848,550.50555 300.6163,455.89577 334.68416,355.79952 403.96324,286.52043 447.96367,242.52 482.52145,234.36401 532.73647,209.2565 c 35.47796,-17.73898 65.49459,-45.62462 99.79925,-62.77695"
+   style="fill:none;stroke:#000000;stroke-width:26.3852px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /></svg>

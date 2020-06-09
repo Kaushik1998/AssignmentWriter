@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="UP_A.svg"
+   id="svg10"
+   viewBox="0 0 152 225"
+   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+   version="1.1"
+   height="15.4776mm"
+   width="10.4429mm"
+   xml:space="preserve"><metadata
+   id="metadata14"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   inkscape:current-layer="svg10"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-8"
+   inkscape:window-x="-8"
+   inkscape:cy="20.550418"
+   inkscape:cx="31.967005"
+   inkscape:zoom="9.1968931"
+   showgrid="false"
+   id="namedview12"
+   inkscape:window-height="705"
+   inkscape:window-width="1366"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+ <defs
+   id="defs4">
+  <style
+   id="style2"
+   type="text/css">
+   <![CDATA[
+    .str0 {stroke:black;stroke-width:2.90561}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ 
+<path
+   id="path839"
+   d="M 60.717213,17.027415 C 52.249635,83.770716 34.323116,154.09507 14.655879,214.25367"
+   style="fill:none;stroke:#000000;stroke-width:3.8511px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><path
+   id="path841"
+   d="M 60.717213,17.027415 C 84.146937,82.827777 83.619394,165.55142 134.83409,216.76611"
+   style="fill:none;stroke:#000000;stroke-width:3.8511px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><path
+   id="path843"
+   d="m 40.617722,118.78109 c 6.650879,10.23171 28.784723,6.69983 43.130157,6.69983"
+   style="fill:none;stroke:#000000;stroke-width:3.8511px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /></svg>
